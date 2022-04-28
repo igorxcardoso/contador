@@ -9,22 +9,35 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const MaterialApp(
+    return MaterialApp(
       debugShowCheckedModeBanner: false,
       home: HomePage(),
     );
   }
 }
 
-class HomePage extends StatelessWidget {
-  const HomePage({Key? key}) : super(key: key);
+class HomePage extends StatefulWidget {
+  HomePage({Key? key}) : super(key: key);
+
+  @override
+  State<HomePage> createState() => _HomePageState();
+}
+
+class _HomePageState extends State<HomePage> {
+  int count = 0;
 
   void decrement() {
-    print('decrement');
+    setState(() {
+      count--;
+    });
+    print(count);
   }
 
   void increment() {
-    print('increment');
+    setState(() {
+      count++;
+    });
+    print(count);
   }
 
   @override
@@ -48,11 +61,11 @@ class HomePage extends StatelessWidget {
                 fontWeight: FontWeight.w700, // w800
               ),
             ),
-            const Padding(
-              padding: EdgeInsets.all(40),
+            Padding(
+              padding: const EdgeInsets.all(40),
               child: Text(
-                '0',
-                style: TextStyle(
+                count.toString(),
+                style: const TextStyle(
                   fontSize: 120,
                   color: Colors.white,
                 ),
