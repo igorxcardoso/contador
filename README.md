@@ -11,7 +11,7 @@ Esse projeto foi desenvolvido usando [Flutter](https://flutter.dev/?gclid=CjwKCA
 
 Fazendo ...
 
-## Autro
+## Autor
 
 * **Igor Cardoso** - [igorxcardoso](https://github.com/igorxcardoso)
 
