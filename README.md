@@ -1,16 +1,21 @@
-# contador
+# Contador Simples
 
-A new Flutter project.
+Esse projeto foi desenvolvido em Flutter, com o ituito de implementar um contato simples para estabelecimentos comercíais.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Iniicialmente
 
-A few resources to get you started if this is your first Flutter project:
+Esse projeto foi desenvolvido usando [Flutter](https://flutter.dev/?gclid=CjwKCAjw9qiTBhBbEiwAp-GE0cM6Z5iSbWVuuElH82qhmp4roWW39dsioa3fLQmXQMHVO1LVtmPRfBoCB5gQAvD_BwE&gclsrc=aw.ds), que é um kit de desenvolvimento de interface de usuário, baseado na linguagem de programação [Dart](https://dart.dev/).
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Instalação e configuração do Flutter
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Fazendo ...
+
+## Autro
+
+* **Igor Cardoso** - [igorxcardoso](https://github.com/igorxcardoso)
+
+## Licença
+
+Esse projeto está sobre licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
+
