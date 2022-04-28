@@ -3,7 +3,7 @@
 Esse projeto foi desenvolvido em Flutter, com o ituito de implementar um contato simples para estabelecimentos comercíais.
 
 
-## Iniicialmente
+## Inicialmente
 
 Esse projeto foi desenvolvido usando [Flutter](https://flutter.dev/?gclid=CjwKCAjw9qiTBhBbEiwAp-GE0cM6Z5iSbWVuuElH82qhmp4roWW39dsioa3fLQmXQMHVO1LVtmPRfBoCB5gQAvD_BwE&gclsrc=aw.ds), que é um kit de desenvolvimento de interface de usuário, baseado na linguagem de programação [Dart](https://dart.dev/).
 
@@ -17,5 +17,5 @@ Fazendo ...
 
 ## Licença
 
-Esse projeto está sobre licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
+Esse projeto está sobre licença MIT - veja o arquivo [LICENSE.md](LICENSE) para mais detalhes.
 
