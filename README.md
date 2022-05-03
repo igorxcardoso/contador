@@ -17,5 +17,5 @@ Fazendo ...
 
 ## Licença
 
-Esse projeto está sobre licença MIT - veja o arquivo [LICENSE.md](LICENSE) para mais detalhes.
+Esse projeto está sobre licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
